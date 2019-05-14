@@ -1,0 +1,13 @@
+/drive-times
+/results
+/parcels
+*.jpg
+*.html
+*.Rhistory
+*.xlsx
+*.png
+*.pptx
+*.mxd
+*.csv
+*.h5
+*.txt
